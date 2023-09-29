@@ -1,2 +1,5 @@
 # GE_2023PC
-KKKKKKKKKKKKKKKKKKKKKKK
+Sou Rosalba Koerich
+Cursista do Formadores em Ação - 2023
+
+
