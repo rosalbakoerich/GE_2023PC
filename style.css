@@ -4,6 +4,11 @@
          text-align: center;
     }
 
+    h1{
+        font-size: 20px;
+
+    }
+
     em strong{
         color: red;
 
