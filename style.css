@@ -1,16 +1,17 @@
 
     
-    h1{
-         text-align: center;
-    }
-
-    h1{
-        font-size: 30px;
-
-    }
+    
 
     h1{
         color: blue;
 
     }
+
+    #titulo{
+        font-size: 30px;
+        text-align:center ;
+
+    }
+
+    
 
