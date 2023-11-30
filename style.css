@@ -19,6 +19,14 @@
         background: #a880e9b0
     }
 
+    .cabecalho{
+        padding: 20px;
+        background-color: #00ff87;
+        border-bottom: 2px solid  white;
+        font-size: 32px;
+        color: white;
+    }
+
     .Contatos{
         background-image:linear-gradient(#45caff,  #00ff87);
         width: 400px ;
