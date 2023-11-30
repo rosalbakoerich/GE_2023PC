@@ -19,8 +19,9 @@
         width: 50%;
         margin: 24px;
         padding: 16px;
+        border-radius: 25px;
     }
-    
+
 
        body{
         background: #a880e9b0
